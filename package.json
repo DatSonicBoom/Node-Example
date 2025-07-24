@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/DatSonicBoom/Node-Example/issues"
   },
-  "homepage": "https://github.com/DatSonicBoom/Node-Example#readme"
+  "homepage": "https://github.com/DatSonicBoom/Node-Example#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
 }
